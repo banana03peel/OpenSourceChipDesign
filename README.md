@@ -7,9 +7,9 @@ List is as follows:
 
 ## Steps Broadly to be followed.
 
-This process is done using the [tt10-verilog-template]() from TinyTapeout.
+This process is done using the [tt10-verilog-template](https://github.com/TinyTapeout/tt10-verilog-template) from TinyTapeout.
 
-### Fork the [tt10-verilog-template]() repository.
+### Fork the [tt10-verilog-template](https://github.com/TinyTapeout/tt10-verilog-template) repository.
 - Name the fork appropriate to the project.
 
 ### Go to source('src') folder from the fork.
